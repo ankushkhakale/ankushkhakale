@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Web-Dev Projects.<br>🤝 I’m looking for help with Cloud Architecture and AI Integrations.<br>🌱 I’m currently learning Full-Stack web development.<br>💬 Ask me about UI-UX, Networking, Cybersecurity.<br>🚀 Currently exploring new technologies and seeking connections with like-minded professionals. 
 
+[![An image of @ankushkhakale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankushkhakale)](https://holopin.io/@ankushkhakale)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Stoic.ankush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankushkhakale/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Stoic.ankush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khakaleankush@gmail.com) 
