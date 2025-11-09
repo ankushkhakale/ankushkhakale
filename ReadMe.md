@@ -25,7 +25,7 @@
 - 🚀 Active in **hackathons, OSS & tech communities** 
 - 🎮 Fun fact: I enjoy experimenting with **Web Dev, AIML Tools & Gaming**  
 - 📫 How to reach me: **khakaleankush@gmail.com**
-
+<hr/>
 ### Connect on Socials!
 
 - *LinkedIn*: [**Ankush Khakale**](https://www.linkedin.com/in/ankushkhakale/)
@@ -34,8 +34,6 @@
 - *Email*: [**ankushkhakale@gmail.com**](mailto:ankushkhakale@gmail.com)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<hr/>
- 
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
