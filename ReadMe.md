@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ankushkhakale.ankushkhakale" />
 
-<img width="2000" height="400" alt="image" src="linkedin-company-hero-1128x376.jpg" />
+<img width="1128" height="376" alt="image" src="linkedin-company-hero-1128x376.jpg" />
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
