@@ -4,7 +4,7 @@
      src="https://simeononsecurity.com/img/cover/a_cartoon_illustration_depicting_a_developer_working_731x410.webp" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=1000&color=2FF1F7&width=435&lines=Hey!+I%E2%80%99m+Ankush%F0%9F%91%8B;Welcome+to+my+Corner+of+the+Internet+%F0%9F%8C%BF;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+I%E2%80%99m+Ankush%F0%9F%91%8B;+Welcome+to+my+Corner+of+the+Internet+%F0%9F%8C%BF;" />
 </h1>
 
 # 💫 About Me:
