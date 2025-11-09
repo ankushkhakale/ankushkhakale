@@ -25,7 +25,7 @@
 - 🚀 Active in **hackathons, OSS & tech communities** 
 - 🎮 Fun fact: I enjoy experimenting with **Web Dev, AIML Tools & Gaming**  
 - 📫 How to reach me: **khakaleankush@gmail.com**
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="350px" max-width="350px" width="350px" align="right">
 <hr/>
 
 ## Connect on Socials!
