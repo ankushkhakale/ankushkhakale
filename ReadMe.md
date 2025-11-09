@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,github,figma,tailwind,git,gitlab,postman,opencv,tensorflow,aws," />
-    <img src="https://skillicons.dev/icons?i=gcp,vscode,nodejs,typescript,firebase,mongodb,mysql,postgresql,linux,jenkins,docker,kubernetes," /><br>
+    <img src="https://skillicons.dev/icons?i=gcp,vscode,nodejs,typescript,firebase,mongodb,mysql,postgresql,linux,jenkins,docker,kubernetes,azure," /><br>
 </div>
 
 <br/>
@@ -77,6 +77,8 @@
 ### 💡 Let's Collaborate!
 
 🚀 Have something in mind? I’m always up for new ideas and teamwork. Let’s shape it into something real.
+
+🤝 I'm always ready for **Hackathons, Open-source collaborations, and team-based innovation**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
