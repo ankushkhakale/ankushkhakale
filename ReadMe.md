@@ -3,6 +3,10 @@
 <img width="2000" height="400" alt="Developer working illustration"
      src="https://simeononsecurity.com/img/cover/a_cartoon_illustration_depicting_a_developer_working_731x410.webp" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=1000&color=2FF1F7&width=435&lines=Hey!+I%E2%80%99m+Ankush%F0%9F%91%8B;Welcome+to+my+Corner+of+the+Internet+%F0%9F%8C%BF;" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Web-Dev Projects.<br>🤝 I’m looking for help with Cloud Architecture and AI Integrations.<br>🌱 I’m currently learning Full-Stack web development.<br>💬 Ask me about UI-UX, Networking, Cybersecurity.<br>🚀 Currently exploring new technologies and seeking connections with like-minded professionals. 
 
