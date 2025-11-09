@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ankushkhakale.ankushkhakale" />
 
-<img width="1128" height="376" alt="image" src="https://i.pinimg.com/1200x/df/2f/e1/df2fe1c94284383ebc90771a84e148be.jpg"/>
+<img width="1128" height="376" alt="image" src="https://github.com/ankushkhakale/ankushkhakale/blob/main/image-1200x400.jpg"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+I'm+Ankush👋;+Building,+Breaking,+Learning🔁;" />
