@@ -59,20 +59,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankushkhakale&theme=dark-smoky"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ankushkhakale&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=ankushkhakale&theme=react&border_radius=10."/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ankushkhakale&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushkhakale&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ankushkhakale&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ankushkhakale&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
