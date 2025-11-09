@@ -19,14 +19,11 @@
 
 ## 🛠 About Me
 
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="350px" max-width="350px" width="350px" align="right">
-
 - 🌱 Currently exploring **DevOps, AI & ML**  
 - 👯 Excited to collaborate on **Full-Stack & AI-driven Projects**
 - 🤖 Building **AI agents & automation workflows**  
 - 🚀 Active in **hackathons, OSS & tech communities** 
-- 🎮 Fun fact: I enjoy experimenting with **Web Dev, AIML Tools & Gaming**  
+- 🎮 **Fun Fact:** I enjoy experimenting with **Web Dev, AIML Tools & Gaming**  
 - 📫 How to reach me: **khakaleankush@gmail.com**
 
 <hr/>
@@ -36,7 +33,8 @@
 - *LinkedIn*: [**Ankush Khakale**](https://www.linkedin.com/in/ankushkhakale/)
 - *Portfolio Website*: [**Visit Here**](https://ankushkhakale.netlify.app/)
 - *Instagram*: [**@stoic.ankush**](https://www.instagram.com/stoic.ankush/)
-- *Email*: [**ankushkhakale@gmail.com**](mailto:ankushkhakale@gmail.com)
+- *Email*: [**khakaleankush@gmail.com**](mailto:khakaleankush@gmail.com)
+- *Discord*: [ankush_2580](https://discord.com/users/1328427159139913833)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -44,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,github,figma,tailwind,git,gitlab,postman,opencv,tensorflow,aws," />
-    <img src="https://skillicons.dev/icons?i=gcp,vscode,nodejs,typescript,express,firebase,mongodb,mysql,postgresql,linux,jenkins,docker,kubernetes," /><br>
+    <img src="https://skillicons.dev/icons?i=gcp,vscode,nodejs,typescript,firebase,mongodb,mysql,postgresql,linux,jenkins,docker,kubernetes," /><br>
 </div>
 
 <br/>
@@ -70,6 +68,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **#30NitesOfCode:**
+
 [Check out my progress](https://www.codedex.io/@stoic-ankush/30-nites-of-code)  
 
 ![@sonny #30NitesOfCode](https://codedex.io/api/petStatus?user=stoic-ankush)
@@ -79,9 +78,9 @@
 
 🚀 Have something in mind? I’m always up for new ideas and teamwork. Let’s shape it into something real.
 
-
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="350px" max-width="350px" width="350px" align="right">
+
 ### 👋 Thanks for Visiting  
-💬 Challenge me in **games**, discuss AIML, or explore the endless possibilities in tech!
+💬 Challenge me in **games**, discuss AI or drop a tech conspiracy theory 😄
