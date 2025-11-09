@@ -2,11 +2,13 @@
 
 <img width="2000" height="400" alt="Developer working illustration"
      src="https://simeononsecurity.com/img/cover/a_cartoon_illustration_depicting_a_developer_working_731x410.webp" />
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+I'm+Ankush👋;+Building,+Breaking,+Learning🔁;" />
 </h1>
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # 💫 About Me:
 🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Web-Dev Projects.<br>🤝 I’m looking for help with Cloud Architecture and AI Integrations.<br>🌱 I’m currently learning Full-Stack web development.<br>💬 Ask me about UI-UX, Networking, Cybersecurity.<br>🚀 Currently exploring new technologies and seeking connections with like-minded professionals. 
 
