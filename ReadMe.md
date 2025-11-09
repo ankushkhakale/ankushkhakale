@@ -6,12 +6,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+I'm+Ankush👋;+Building,+Breaking,+Learning🔁;" />
 </h1>
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💫 About Me:
-🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Web-Dev Projects.<br>🤝 I’m looking for help with Cloud Architecture and AI Integrations.<br>🌱 I’m currently learning Full-Stack web development.<br>💬 Ask me about UI-UX, Networking, Cybersecurity.<br>🚀 Currently exploring new technologies and seeking connections with like-minded professionals. 
+### 🎖 Holopin Badges
 
+<p align="center">
+  <a href="https://holopin.io/@ankushkhakale">
+    <img src="https://holopin.me/coddingjatin" alt="Holopin Badges">
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Stoic.ankush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankushkhakale/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Stoic.ankush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khakaleankush@gmail.com) 
