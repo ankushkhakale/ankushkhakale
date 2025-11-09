@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@ankushkhakale">
-    <img src="https://holopin.me/coddingjatin" alt="Holopin Badges">
+    <img src="https://holopin.me/ankushkhakale" alt="Holopin Badges">
   </a>
 </p>
 
