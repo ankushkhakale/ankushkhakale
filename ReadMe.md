@@ -1,12 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ankushkhakale.ankushkhakale" />
 
-<img width="1128" height="376" alt="image" src="linkedin-company-hero-1128x376.jpg" />
-<!--horizontal divider(gradiant)-->
+<img width="1128" height="376" alt="image" src="https://assets.pinterest.com/ext/embed.html?id=6192518231493249" height="279" width="345" frameborder="0" scrolling="no" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+I'm+Ankush👋;+Building,+Breaking,+Learning🔁;" />
 </h1>
-<h3 align="center">A passionate Software Developer & DevOps Engineer from India </h3>
+<h3 align="center">A Passionate Software Developer, DevOps Engineer & Agentic AI Builder from India</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎖 Holopin Badges
