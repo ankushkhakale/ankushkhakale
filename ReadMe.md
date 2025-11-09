@@ -4,7 +4,7 @@
      src="https://simeononsecurity.com/img/cover/a_cartoon_illustration_depicting_a_developer_working_731x410.webp" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+I'm+Ankush👋;+Turning+caffeine+into+commits⚡;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+I'm+Ankush👋;+building,+breaking,+learning🔁;" />
 </h1>
 
 # 💫 About Me:
