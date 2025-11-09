@@ -1,5 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ankushkhakale.ankushkhakale" />
 
+<img width="2000" height="400" alt="image" src="[https://github.com/user-attachments/assets/1c8d2a44-8a94-4192-b373-dc12a91f3665](https://simeononsecurity.com/img/cover/a_cartoon_illustration_depicting_a_developer_working_731x410.webp)" />
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Web-Dev Projects.<br>🤝 I’m looking for help with Cloud Architecture and AI Integrations.<br>🌱 I’m currently learning Full-Stack web development.<br>💬 Ask me about UI-UX, Networking, Cybersecurity.<br>🚀 Currently exploring new technologies and seeking connections with like-minded professionals. 
 
