@@ -19,7 +19,7 @@
 
 ## 🛠 About Me
 
-- 🌱 Currently exploring **DevOps, AI & ML**  
+- 🌱 Currently exploring **DevOps, AI & ML, Agentic AI**  
 - 👯 Excited to collaborate on **Full-Stack & AI-driven Projects**
 - 🤖 Building **AI agents & automation workflows**  
 - 🚀 Active in **hackathons, OSS & tech communities** 
@@ -41,8 +41,8 @@
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,github,figma,tailwind,git,gitlab,postman,opencv,tensorflow,aws," />
-    <img src="https://skillicons.dev/icons?i=gcp,vscode,nodejs,typescript,firebase,mongodb,mysql,postgresql,linux,jenkins,docker,kubernetes,azure," /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,go,github,figma,tailwind,git,gitlab,postman,opencv,aws," />
+    <img src="https://skillicons.dev/icons?i=gcp,vscode,typescript,firebase,mongodb,mysql,postgresql,linux,jenkins,docker,kubernetes,azure," /><br>
 </div>
 
 <br/>
