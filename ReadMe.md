@@ -65,13 +65,6 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**#30NitesOfCode:**
-
-[Check out my progress](https://www.codedex.io/@stoic-ankush/30-nites-of-code)  
-
-![@sonny #30NitesOfCode](https://codedex.io/api/petStatus?user=stoic-ankush)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 💡 Let's Collaborate!
 
 🚀 Have something in mind? I’m always up for new ideas and teamwork. Let’s shape it into something real.
