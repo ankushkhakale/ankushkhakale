@@ -23,8 +23,6 @@
 - 👯 Excited to collaborate on **Full-Stack & AI-driven Projects**
 - 🤖 Building **AI agents & automation workflows**  
 - 🚀 Active in **hackathons, OSS & tech communities** 
-- 🎮 **Fun Fact:** I enjoy experimenting with **Web Dev, AIML Tools & Gaming**  
-- 📫 How to reach me: **khakaleankush@gmail.com**
 
 <hr/>
 
