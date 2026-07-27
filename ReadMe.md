@@ -19,7 +19,7 @@
 
 ## 🛠 About Me
 
-- 🌱 Currently exploring **DevOps, AI & ML, Agentic AI**  
+- 🌱 Currently exploring **DevOps, MlOps and Agentic AI**  
 - 👯 Excited to collaborate on **Full-Stack & AI-driven Projects**
 - 🤖 Building **AI agents & automation workflows**  
 - 🚀 Active in **hackathons, OSS & tech communities** 
@@ -29,10 +29,10 @@
 ## Connect on Socials!
 
 - *LinkedIn*: [**Ankush Khakale**](https://www.linkedin.com/in/ankushkhakale/)
-- *Portfolio Website*: [**Visit Here**](https://ankushkhakale.netlify.app/)
+- *Portfolio Website*: [**Visit Here**](https://ankushkhakalepage.netlify.app/)
 - *Instagram*: [**@stoic.ankush**](https://www.instagram.com/stoic.ankush/)
 - *Email*: [**khakaleankush@gmail.com**](mailto:khakaleankush@gmail.com)
-- *Discord*: [ankush_2580](https://discord.com/users/1328427159139913833)
+- *Discord*: yourlinuxdude
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -46,7 +46,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🤝 I'm always ready for **Hackathons, Open-source collaborations, and Team-based innovation**.
+🤝 I'm always ready for **Hackathons, Open-source collaborations, and Team-based innovation projects**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
