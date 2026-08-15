@@ -31,8 +31,9 @@
 - *LinkedIn*: [**Ankush Khakale**](https://www.linkedin.com/in/ankushkhakale/)
 - *Portfolio Website*: [**Visit Here**](https://ankushkhakalepage.netlify.app/)
 - *Instagram*: [**@stoic.ankush**](https://www.instagram.com/stoic.ankush/)
+- *X*: [**@ankushbuilt**](https://x.com/ankushbuilt)
 - *Email*: [**khakaleankush@gmail.com**](mailto:khakaleankush@gmail.com)
-- *Discord*: yourlinuxdude
+- *Discord username*: yourlinuxdude
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -48,4 +49,3 @@
 🤝 I'm always ready for **Hackathons, Open-source collaborations, and Team-based innovation projects**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
