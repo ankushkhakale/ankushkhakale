@@ -40,7 +40,7 @@
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,typescript,firebase,mongodb,mysql,postgresql,linux,docker,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,typescript,mongodb,mysql,postgresql,linux,docker,kubernetes,jenkins,fastapi,aws,react,golang,postman,githubactions" /><br>
 </div>
 
 <br/>
