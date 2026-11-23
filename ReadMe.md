@@ -10,8 +10,7 @@ Cloud-native builder and open-source contributor building resilient infrastructu
 ▸ Drawn more to system design and architecture than leetcode grinds.
 
 <p>
-  <strong>Tech Stack ⚙️</strong>
-  &nbsp;&nbsp;
+  <strong>Tech Stack ⚙️</strong><br/>
 
   <img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
