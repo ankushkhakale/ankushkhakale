@@ -28,3 +28,6 @@ Cloud-native builder and open-source contributor building resilient infrastructu
   <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
 </p>
+
+<img src="./assets/terminal.svg" width="100%" alt="$ kubectl get engineer yourlinuxdude -o wide. NAME: Ankush-Khakale, ROLE SDE, MERGED-PRS 25+, CERTS CKA, AWS-SAA, AWS-CCP, STATUS: Available." />
+

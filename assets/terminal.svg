@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="196" viewBox="0 0 800 196" role="img" aria-labelledby="title desc">
+  <title id="title">$ kubectl get engineer yourlinuxdude -o wide</title>
+  <desc id="desc">Terminal output. NAME ankush-khakale, ROLE SDE, MERGED-PRS 25+, CERTS CKA, AWS-SAA, AWS-CCP, STATUS Available.</desc>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; font-size: 15px; }
+    .bar  { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; fill: #8b949e; }
+    .fg     { fill: #e6edf3; }
+    .dim    { fill: #8b949e; }
+    .ok     { fill: #3fb950; }
+    .blue   { fill: #79c0ff; }
+    .purple { fill: #d2a8ff; }
+    .orange { fill: #ffa657; }
+
+    /* — command-line typer (42 chars, starts at 0.6s) — */
+    .typer  { animation: type1 1.9s steps(42, end) 0.6s forwards, hide 0.01s linear 2.6s forwards; }
+    @keyframes type1 { to { transform: translateX(378px); } }
+    @keyframes hide  { to { opacity: 0; } }
+
+    /* — table rows fade in — */
+    .row { opacity: 0; animation: show 0.4s ease-out forwards; }
+    .r1  { animation-delay: 2.7s; }
+    .r2  { animation-delay: 3.0s; }
+    .r3  { animation-delay: 3.4s; }
+    @keyframes show { to { opacity: 1; } }
+
+    /* — quote typer (68 chars, starts after r3 finishes fading in at 3.9s) — */
+    .typer2 { animation: type2 3.1s steps(68, end) 3.9s forwards; }
+    @keyframes type2 { to { transform: translateX(615px); } }
+
+    /* — blinking cursor after quote finishes typing (~7.0s) — */
+    .cur2 { opacity: 0; animation: appear 0.01s forwards 7.0s, blink 1s steps(1, end) 7.0s infinite; }
+    @keyframes appear { to { opacity: 1; } }
+    @keyframes blink  { 50% { opacity: 0; } }
+
+    /* — pulsing status dot — */
+    .pulse { animation: pulse 2s ease-in-out 3.0s infinite; }
+    @keyframes pulse { 50% { opacity: 0.35; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .typer, .typer2 { display: none; }
+      .row  { opacity: 1; animation: none; }
+      .cur2 { opacity: 1; animation: none; }
+      .pulse { animation: none; }
+    }
+  </style>
+
+  <!-- window chrome -->
+  <rect x="1" y="1" width="798" height="194" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 13 A12 12 0 0 1 13 1 H787 A12 12 0 0 1 799 13 V36 H1 Z" fill="#161b22"/>
+  <line x1="1" y1="36.5" x2="799" y2="36.5" stroke="#30363d"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text x="400" y="23" text-anchor="middle" class="bar">ankush@arch: ~</text>
+
+  <!-- command line -->
+  <text x="24" y="72" class="mono ok">$</text>
+  <text x="42" y="72" class="mono fg" textLength="378" lengthAdjust="spacing">kubectl get engineer yourlinuxdude -o wide</text>
+  <g class="typer">
+    <rect x="42" y="55" width="390" height="23" fill="#0d1117"/>
+    <rect x="42" y="58" width="9"   height="18" fill="#e6edf3"/>
+  </g>
+
+  <!-- header row -->
+  <g class="row r1 mono dim">
+    <text x="24"  y="108">NAME</text>
+    <text x="190" y="108">ROLE</text>
+    <text x="280" y="108">MERGED-PRS</text>
+    <text x="430" y="108">CERTS</text>
+    <text x="660" y="108">STATUS</text>
+  </g>
+
+  <!-- value row -->
+  <g class="row r2 mono">
+    <text x="24"  y="134" class="fg">ankush-khakale</text>
+    <text x="190" y="134" class="blue">SDE</text>
+    <text x="280" y="134" class="orange">25+</text>
+    <text x="430" y="134" class="purple">CKA,AWS-SAA,AWS-CCP</text>
+    <circle class="pulse" cx="665" cy="129" r="4" fill="#3fb950"/>
+    <text x="676" y="134" class="ok">Available</text>
+  </g>
+
+  <!-- trailing prompt $ -->
+  <g class="row r3 mono">
+    <text x="24" y="170" class="ok">$</text>
+  </g>
+
+  <!-- quote text (always rendered, covered by typer2 rect until typed) -->
+  <text x="42" y="170" class="mono dim" style="font-style:italic;">If you want to go fast, go alone; if you want to go far, ping me :)</text>
+
+  <!-- typer2: covers quote and slides right starting at 3.9s -->
+  <g class="typer2">
+    <rect x="42" y="153" width="625" height="23" fill="#0d1117"/>
+  </g>
+
+  <!-- blinking cursor appears after quote is fully typed -->
+  <rect class="cur2" x="659" y="156" width="9" height="18" fill="#e6edf3"/>
+</svg>
