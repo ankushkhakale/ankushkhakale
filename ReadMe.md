@@ -1,4 +1,4 @@
-**Cloud and DevOps Engineer**  
+### Cloud and DevOps Engineer
 
 Cloud-native builder and open-source contributor building resilient infrastructure with Go, Kubernetes, and Linux.
 
@@ -24,6 +24,11 @@ Cloud-native builder and open-source contributor building resilient infrastructu
   <img src="https://img.shields.io/badge/Jenkins-161B22?style=flat&logo=jenkins&logoColor=D24939" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Prometheus-161B22?style=flat&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-161B22?style=flat&logo=grafana&logoColor=F46800" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Kafka-161B22?style=flat&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Helm-161B22?style=flat&logo=helm&logoColor=0F1689" alt="Helm" />
+  <img src="https://img.shields.io/badge/Ansible-161B22?style=flat&logo=ansible&logoColor=EE0000" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-161B22?style=flat&logo=terraform&logoColor=844FBA" alt="Terraform" />
   <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
 </p>
