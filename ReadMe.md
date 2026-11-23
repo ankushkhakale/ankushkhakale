@@ -34,6 +34,13 @@
 - *X*: [**@ankushbuilt**](https://x.com/ankushbuilt)
 - *Email*: [**khakaleankush@gmail.com**](mailto:khakaleankush@gmail.com)
 - *Discord username*: yourlinuxdude
+
+<a href="https://certdirectory.io/profile/ankush-khakale?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/ankush-khakale.svg?style=card&theme=dark">
+    <img alt="Ankush Khakale on CertDirectory" src="https://certdirectory.io/badge/ankush-khakale.svg?style=card">
+  </picture>
+</a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
