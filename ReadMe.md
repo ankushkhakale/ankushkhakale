@@ -11,7 +11,7 @@ Cloud-native builder and open-source contributor building resilient infrastructu
 
 <p>
   <strong>Tech Stack ⚙️</strong><br/>
-
+<br>
   <img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Go-161B22?style=flat&logo=Go&logoColor=3178C6" alt="Golang" />
@@ -27,6 +27,6 @@ Cloud-native builder and open-source contributor building resilient infrastructu
   <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
 </p>
-
+</br>
 <img src="./assets/terminal.svg" width="100%" alt="$ kubectl get engineer yourlinuxdude -o wide. NAME: Ankush-Khakale, ROLE SDE, MERGED-PRS 25+, CERTS CKA, AWS-SAA, AWS-CCP, STATUS: Available." />
 
